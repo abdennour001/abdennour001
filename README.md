@@ -5,8 +5,8 @@
 # AMOKRANE Abdennour 
 
 [![Github](https://img.shields.io/github/followers/abdennour001?label=Follow&style=social)](https://github.com/abdennour001)
-[![Linkedin](https://img.shields.io/badge/-Alexey%20Khachatryan-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/amokrane-in)](https://www.linkedin.com/in/amokrane-in/)
-[![Mail](https://img.shields.io/badge/-info@khachatryan.org-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:amokranabdennour@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-Amokrane%Abdennour-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/amokrane-in)](https://www.linkedin.com/in/amokrane-in/)
+[![Mail](https://img.shields.io/badge/-amokranabdennour@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:amokranabdennour@gmail.com)
 
 
 
