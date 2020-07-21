@@ -37,6 +37,20 @@ I'm enthusiastic to change the world.
 <code><img height="50" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/amazon_ecs/amazon_ecs-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/amazon/amazon-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/amazon_cloudwatch/amazon_cloudwatch-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/udacity/udacity-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/amazon_awslambda/amazon_awslambda-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/babeljs/babeljs-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
 
 
 ### Interesting stats
