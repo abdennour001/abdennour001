@@ -1,6 +1,8 @@
 ### Hi there 👋
-- 🌱 I’m currently learning in udacity : Cloud Developer Nanodegree
-- 🔭 I’m currently working on my startup : bazaar
+- 🌱 I’m currently learning data structures and solving coding challenges ⛩
+- ✅ Got udacity's Nanodegree : Cloud Developer
+- 👨‍💻 I’m currently working as a full time developer : Kostango
+- 🔭 I’m currently working on my startup : Bazaar
 
 # AMOKRANE Abdennour 
 
